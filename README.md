@@ -1,6 +1,8 @@
-### About Me
+## About Me
 
-This github will simply be somewhere to accumulate examples of code and knowledge on topics learned through university or otherwise.
+### This github will simply be somewhere to accumulate examples of code and knowledge on topics (or projects) learned through university or otherwise.
+### As time goes on, more will be added.
+
 
 <!--
 **mbandara24/mbandara24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
