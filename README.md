@@ -1,6 +1,6 @@
 ## MBandara24 GitHub - Read Me
 
-### This github will be somewhere to accumulate examples of code and knowledge on topics (or projects) learned through university or otherwise.
+### This github will be a repository to accumulate projects, examples of code and knowledge on topics learned. 
 ### As time goes on, more will be added.
 
 
